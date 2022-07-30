@@ -1,0 +1,10 @@
+DASAR komponen BackEnd
+Node js & npm (java Script)
+ 
+ sequelize = frameWork / library untuk mengolah database
+ jwt (json web token) = keamanan berdasarkan token (enkripsi)
+Library Bcrypt = Library enkripsi token
+
+
+DASAR FrontEnd
+React (Java Scripst)

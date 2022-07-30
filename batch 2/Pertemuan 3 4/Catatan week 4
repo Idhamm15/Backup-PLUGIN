@@ -1,0 +1,16 @@
+langkah awal
+buat folder di src -> controller dan buat file baru bernama authController
+kemudian terminal cd src dan npx sequelize model:generate --name User --attributes nama:string,username:string,email:string,password:string
+nyalakan lampp
+npx sequelize db:migrate
+lalu coding 
+
+
+membuat last project :
+database di ganti
+kolom di ganti
+db migrate 
+clear...
+
+post data ulang di postman....
+
